@@ -8,4 +8,4 @@ required libs:
   POCO C++ libraries
   OpenCV
   
-Docker image is included as tar.gz file.
+Docker image is included as tar.gz file (net_server.tar.gz).
